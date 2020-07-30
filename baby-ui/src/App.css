@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+.growl {
+  @import "https://unpkg.com/primeicons@2.0.0/primeicons.css"
+}
+
+.p-fluid {
+  height: 400px;
+  margin: 15px;
+}
+
+.p-button {
+  height: 100%;
+}
+
+.button {
+  height: 400px;
+}
